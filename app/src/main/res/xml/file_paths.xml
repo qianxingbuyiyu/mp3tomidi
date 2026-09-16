@@ -1,0 +1,5 @@
+<paths>
+    <external-files-path name="midi" path="midi/" />
+    <files-path name="internal" path="." />
+    <cache-path name="cache" path="." />
+</paths>
